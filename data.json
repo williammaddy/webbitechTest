@@ -1,0 +1,178 @@
+{
+  "categories": [
+    { "id": "1", "name": "Watches", "icon": "watch-outline" },
+    { "id": "2", "name": "Bags", "icon": "bag-handle-outline" },
+    { "id": "3", "name": "Beauty", "icon": "sparkles-outline" },
+    { "id": "4", "name": "Clothing", "icon": "shirt-outline" },
+    { "id": "5", "name": "Accessories", "icon": "glasses-outline" },
+    { "id": "6", "name": "Shoes", "icon": "footsteps-outline" },
+    { "id": "7", "name": "Lifestyle", "icon": "compass-outline" },
+    { "id": "8", "name": "More", "icon": "grid-outline" }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "name": "Air Runner Sneakers",
+      "price": "$129.00",
+      "oldPrice": "$160.00",
+      "rating": 4.8,
+      "reviews": 50,
+      "sold": "1.2k",
+      "isNew": true,
+      "description": "Crafted with lightweight breathable mesh and responsive cushioning for ultimate speed and all-day comfort. Features durable rubber traction outsoles designed for modern street performance.",
+      "sizes": [
+        { "size": "EU 36.5", "available": true },
+        { "size": "EU 37", "available": true },
+        { "size": "EU 37.5", "available": false },
+        { "size": "EU 38", "available": true }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=700&auto=format&fit=crop&q=80"
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Classic Leather Tote",
+      "price": "$189.50",
+      "oldPrice": "$230.00",
+      "rating": 4.9,
+      "reviews": 84,
+      "sold": "850",
+      "isNew": true,
+      "description": "Handcrafted from genuine full-grain leather, featuring a spacious main compartment with zipper pocket, sleek magnetic clasp, and gold-accented handles for effortless everyday elegance.",
+      "sizes": [
+        { "size": "Small", "available": true },
+        { "size": "Medium", "available": true },
+        { "size": "Large", "available": true }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1566150476483-6232669c0042?w=700&auto=format&fit=crop&q=80"
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "Luxury Gold Chrono Watch",
+      "price": "$249.99",
+      "oldPrice": "$349.99",
+      "rating": 4.8,
+      "reviews": 120,
+      "sold": "1.4k",
+      "isNew": true,
+      "description": "Precision automatic movement encapsulated in scratch-resistant sapphire crystal with 18k gold-plated accents. Water resistant up to 50 meters with an adjustable deployment mesh band.",
+      "sizes": [
+        { "size": "38mm", "available": true },
+        { "size": "42mm", "available": true },
+        { "size": "44mm", "available": false }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=700&auto=format&fit=crop&q=80"
+      ]
+    },
+    {
+      "id": "p4",
+      "name": "Urban Crossbody Bag",
+      "price": "$145.00",
+      "oldPrice": "$190.00",
+      "rating": 4.7,
+      "reviews": 36,
+      "sold": "920",
+      "isNew": false,
+      "description": "Minimalist crossbody bag with quick-access front flap, water-repellent canvas material, and adjustable nylon strap suitable for urban commuting and travel.",
+      "sizes": [
+        { "size": "One Size", "available": true }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1566150476483-6232669c0042?w=700&auto=format&fit=crop&q=80"
+      ]
+    },
+    {
+      "id": "p5",
+      "name": "Retro Sport Sneakers",
+      "price": "$110.00",
+      "oldPrice": "$145.00",
+      "rating": 4.6,
+      "reviews": 64,
+      "sold": "3.1k",
+      "isNew": true,
+      "description": "Vintage-inspired low-top silhouette featuring suede overlay panels, padded collar, and high-density foam midsoles for comfort with classic street aesthetics.",
+      "sizes": [
+        { "size": "EU 36.5", "available": true },
+        { "size": "EU 37", "available": true },
+        { "size": "EU 37.5", "available": true },
+        { "size": "EU 38", "available": false }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=700&auto=format&fit=crop&q=80"
+      ]
+    },
+    {
+      "id": "p6",
+      "name": "Minimalist Smartwatch",
+      "price": "$199.00",
+      "oldPrice": "$250.00",
+      "rating": 4.8,
+      "reviews": 92,
+      "sold": "1.8k",
+      "isNew": false,
+      "description": "Sleek fitness smartwatch equipped with AMOLED display, real-time heart rate tracking, sleep monitoring, 7-day battery life, and seamless phone notifications.",
+      "sizes": [
+        { "size": "40mm", "available": true },
+        { "size": "44mm", "available": true }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=700&auto=format&fit=crop&q=80"
+      ]
+    },
+    {
+      "id": "p7",
+      "name": "Designer Chain Handbag",
+      "price": "$215.00",
+      "oldPrice": "$280.00",
+      "rating": 4.9,
+      "reviews": 42,
+      "sold": "620",
+      "isNew": true,
+      "description": "Quilted luxury shoulder handbag paired with a polished metallic chain strap. Features interior card slots and soft faux suede lining.",
+      "sizes": [
+        { "size": "One Size", "available": true }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1566150476483-6232669c0042?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=700&auto=format&fit=crop&q=80"
+      ]
+    },
+    {
+      "id": "p8",
+      "name": "Chrono Automatic Watch",
+      "price": "$289.00",
+      "oldPrice": "$360.00",
+      "rating": 4.7,
+      "reviews": 75,
+      "sold": "410",
+      "isNew": false,
+      "description": "Heritage chronograph featuring self-winding automatic motion, luminous hands, calendar date window, and a premium genuine Italian leather band.",
+      "sizes": [
+        { "size": "42mm", "available": true },
+        { "size": "45mm", "available": true }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=700&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=700&auto=format&fit=crop&q=80"
+      ]
+    }
+  ]
+}
